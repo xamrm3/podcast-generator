@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator - xamrm3"
 author: "Ray Villalobos"
 description: "Generates a feed for a podcast for a YAML file"
 runs: 
